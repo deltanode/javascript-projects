@@ -1,11 +1,8 @@
-# javascript-projects
-This repo is dedicated to vanilla JavaScript projects and code snippets. If you are looking to pratice, or just want to start then this repo is for you. The idea is to practise with vanilla JavaScript.
+# Javascript Projects
 
+This repo is collection of the mini projects one can build to learn javascript or practice it. The idea is to practise with vanilla JavaScript. [No frameworks or libraries]
 
-## Tech Stack
-- HTML5
-- CSS
-- JavaScript
-
-# Projects Ideas
+|  #  |            Project             | Live Demo |
+| :-: | :----------------------------: | :-------: |
+| 01  |       [Project 1]()       | [Live Demo](#)  |
 
